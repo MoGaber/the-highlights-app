@@ -1,0 +1,23 @@
+Learning:
+Learning refers to multiple concepts. Check https://en.wikipedia.org/wiki/Learning
+---------------------
+Machine learning:
+Machine learning refers to multiple concepts. Check https://en.wikipedia.org/wiki/Machine learning
+---------------------
+Data:
+Data refers to multiple concepts. Check https://en.wikipedia.org/wiki/Data
+---------------------
+Supervised learning:
+Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the training data to unseen situations in a "reasonable" way (see inductive bias). This statistical quality of an algorithm is measured through the so-called generalization error.The parallel task in human and animal psychology is often referred to as concept learning.
+
+
+---------------------
+Unsupervised learning:
+Unsupervised learning (UL) is a type of algorithm that learns patterns from untagged data. The hope is that, through mimicry, the machine is forced to build a compact internal representation of its world and then generate imaginative content. In contrast to supervised learning (SL) where data is tagged by a human, e.g. as "car" or "fish" etc, UL exhibits self-organization that captures patterns as neuronal predilections or probability densities. The other levels in the supervision spectrum are reinforcement learning where the machine is given only a numerical performance score as its guidance, and semi-supervised learning where a smaller portion of the data is tagged. Two broad methods in UL are Neural Networks and Probabilistic Methods.
+
+
+---------------------
+Machine:
+A machine is any physical system with ordered structural and functional properties. It may represent human-made or naturally occurring device molecular machine that uses power to apply forces and control movement to perform an action. Machines can be driven by animals and people, by natural forces such as wind and water, and by chemical, thermal, or electrical power, and include a system of mechanisms that shape the actuator input to achieve a specific application of output forces and movement. They can also include computers and sensors that monitor performance and plan movement, often called mechanical systems.
+Renaissance natural philosophers identified six simple machines which were the elementary devices that put a load into motion, and calculated the ratio of output force to input force, known today as mechanical advantage.Modern machines are complex systems that consist of structural elements, mechanisms and control components and include interfaces for convenient use. Examples include: a wide range of vehicles, such as automobiles, boats and airplanes; appliances in the home and office, including computers, building air handling and water handling systems; as well as farm machinery, machine tools and factory automation systems and robots.
+---------------------

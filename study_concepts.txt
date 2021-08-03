@@ -1,23 +1,40 @@
-Learning:
-Learning refers to multiple concepts. Check https://en.wikipedia.org/wiki/Learning
----------------------
-Machine learning:
-Machine learning refers to multiple concepts. Check https://en.wikipedia.org/wiki/Machine learning
----------------------
-Data:
-Data refers to multiple concepts. Check https://en.wikipedia.org/wiki/Data
----------------------
-Supervised learning:
-Supervised learning (SL) is the machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples. In supervised learning, each example is a pair consisting of an input object (typically a vector) and a desired output value (also called the supervisory signal). A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. An optimal scenario will allow for the algorithm to correctly determine the class labels for unseen instances. This requires the learning algorithm to generalize from the training data to unseen situations in a "reasonable" way (see inductive bias). This statistical quality of an algorithm is measured through the so-called generalization error.The parallel task in human and animal psychology is often referred to as concept learning.
-
-
----------------------
 Unsupervised learning:
 Unsupervised learning (UL) is a type of algorithm that learns patterns from untagged data. The hope is that, through mimicry, the machine is forced to build a compact internal representation of its world and then generate imaginative content. In contrast to supervised learning (SL) where data is tagged by a human, e.g. as "car" or "fish" etc, UL exhibits self-organization that captures patterns as neuronal predilections or probability densities. The other levels in the supervision spectrum are reinforcement learning where the machine is given only a numerical performance score as its guidance, and semi-supervised learning where a smaller portion of the data is tagged. Two broad methods in UL are Neural Networks and Probabilistic Methods.
 
+---------------------
+Linear Regression:
+In statistics, linear regression is a linear approach to modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables). The case of one explanatory variable is called simple linear regression; for more than one, the process is called multiple linear regression. This term is distinct from multivariate linear regression, where multiple correlated dependent variables are predicted, rather than a single scalar variable.In linear regression, the relationships are modeled using linear predictor functions whose unknown model parameters are estimated from the data. Such models are called linear models. Most commonly, the conditional mean of the response given the values of the explanatory variables (or predictors) is assumed to be an affine function of those values; less commonly, the conditional median or some other quantile is used. Like all forms of regression analysis, linear regression focuses on the conditional probability distribution of the response given the values of the predictors, rather than on the joint probability distribution of all of these variables, which is the domain of multivariate analysis.
+Linear regression was the first type of regression analysis to be studied rigorously, and to be used extensively in practical applications. This is because models which depend linearly on their unknown parameters are easier to fit than models which are non-linearly related to their parameters and because the statistical properties of the resulting estimators are easier to determine.
+Linear regression has many practical uses. Most applications fall into one of the following two broad categories:
 
 ---------------------
 Machine:
 A machine is any physical system with ordered structural and functional properties. It may represent human-made or naturally occurring device molecular machine that uses power to apply forces and control movement to perform an action. Machines can be driven by animals and people, by natural forces such as wind and water, and by chemical, thermal, or electrical power, and include a system of mechanisms that shape the actuator input to achieve a specific application of output forces and movement. They can also include computers and sensors that monitor performance and plan movement, often called mechanical systems.
 Renaissance natural philosophers identified six simple machines which were the elementary devices that put a load into motion, and calculated the ratio of output force to input force, known today as mechanical advantage.Modern machines are complex systems that consist of structural elements, mechanisms and control components and include interfaces for convenient use. Examples include: a wide range of vehicles, such as automobiles, boats and airplanes; appliances in the home and office, including computers, building air handling and water handling systems; as well as farm machinery, machine tools and factory automation systems and robots.
+
+---------------------
+Data Science:
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyze actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge. However, data science is different from computer science and information science. Turing Award winner Jim Gray imagined data science as a "fourth paradigm" of science (empirical, theoretical, computational, and now data-driven) and asserted that "everything about science is changing because of the impact of information technology" and the data deluge.
+
+---------------------
+Machine learning:
+Machine learning refers to multiple concepts. Check https://en.wikipedia.org/wiki/Machine learning
+
+---------------------
+Educational technology:
+Educational technology (commonly abbreviated as EduTech, or EdTech) is the combined use of computer hardware, software, and educational theory and practice to facilitate learning. When referred to with its abbreviation, EdTech, it is often referring to the industry of companies that create educational technology.In addition to practical educational experience, educational technology is based on theoretical knowledge from various disciplines such as communication, education, psychology, sociology, artificial intelligence, and computer science. It encompasses several domains including learning theory, computer-based training, online learning, and m-learning, where mobile technologies are used.
+
+---------------------
+Curve Fitting:
+Curve fitting is the process of constructing a curve, or mathematical function, that has the best fit to a series of data points, possibly subject to constraints. Curve fitting can involve either interpolation, 
+where an exact fit to the data is required, or smoothing, in which a "smooth" function is constructed that approximately fits the data.  
+A related topic is regression analysis, which focuses more on questions of statistical inference such as how much uncertainty is present in a curve that is fit to data observed with random errors. Fitted curves can be used as an aid for data visualization, to infer values of a function where no data are available, and to summarize the relationships among two or more variables. Extrapolation refers to the use of a fitted curve beyond the range of the observed data, and is subject to a degree of uncertainty since it may reflect the method used to construct the curve as much as it reflects the observed data.
+
+
+---------------------
+Equations:
+In mathematics, an equation is a statement that asserts the equality of two expressions, which are connected by the equals sign "=". The word equation and its cognates in other languages may have subtly different meanings; for example, in French an équation is defined as containing one or more variables, while in English,  any equality is an equation.Solving an equation containing variables consists of determining which values of the variables make the equality true. The variables for which the equation has to be solved are also called unknowns, and the values of the unknowns that satisfy the equality are called solutions of the equation. There are two kinds of equations: identities and conditional equations. An identity is true for all values of the variables. A conditional equation is only true for particular values of the variables.An equation is written as two expressions, connected by an equals sign ("="). The expressions on the two sides of the equals sign are called the "left-hand side" and "right-hand side" of the equation. Very often the right-hand side of an equation is assumed to be zero. Assuming this does not reduce the generality, as this can be realized by subtracting the right-hand side from both sides.
+The most common type of equation is a polynomial equation (commonly called also an algebraic equation) in which the two sides are polynomials.
+The sides of a polynomial equation contain one or more terms.
 ---------------------
